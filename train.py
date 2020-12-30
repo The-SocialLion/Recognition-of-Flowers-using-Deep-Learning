@@ -1,7 +1,6 @@
 #from keras.models import Sequential, load_model
 #from keras.layers import Conv2D, MaxPool2D, Dense, Flatten, Dropout
 import tensorflow as tf
-#from keras.utils import to_categorical
 from sklearn.model_selection import train_test_split
 import numpy as np
 import matplotlib.pyplot as plt
